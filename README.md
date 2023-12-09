@@ -9,4 +9,8 @@ npm init vue@latest
 npm run dev
 ```
 
-<img src="/pictures/architecture.png" title="architecture"  width="900">
+
+## Note App
+
+<img src="/pictures/note.png" title="note app"  width="900">
+<img src="/pictures/note1.png" title="note app"  width="900">
